@@ -15,7 +15,7 @@
     "marked": "0.2.5",
     "js-yaml": "1.0.2",
     "optimist": "0.3.4",
-    "resistance": "2.0.0alpha4"
+    "resistance": "2.0.0-alpha4"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
